@@ -1,0 +1,42 @@
+# Build outputs
+build/
+dist/
+out/
+
+# Dependency directories
+node_modules/
+
+# Editor
+.gitpod.yml
+.idea/
+.nova/
+.vscode/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# Temporary files
+temp/
+tmp/
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn
+.pnp.*
+.yarn/build-state.yml
+.yarn/cache
+.yarn/install-state.gz
+.yarn-integrity
+.yarn/unplugged
