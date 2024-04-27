@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:NummusDev/nummus.git",
-  "author": "Tristan Bietsch <72288139+TristanBietsch@users.noreply.github.com>",
+  "author": "Tristan Bietsch",
   "license": "MIT",
   "dependencies": {
     "@testing-library/react": "^15.0.5",

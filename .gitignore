@@ -40,3 +40,8 @@ tmp/
 .yarn/install-state.gz
 .yarn-integrity
 .yarn/unplugged
+
+# MD
+
+TODO.md 
+NOTES.md

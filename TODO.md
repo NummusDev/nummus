@@ -1,5 +1,21 @@
 # ToDo
 
+## Boilerplate
+
+- [ ] **Linter**: ESLint with TypeScript rules
+- [ ] **Vercel**: Setup for deployment
+- [ ] **Gitignore**: For Node.js/TypeScript projects
+- [ ] **Yarn**: Package manager setup
+- [ ] **.github Folder**: Contains GitHub actions and workflows
+- [ ] **Demo Site**: Hosted on Vercel, example usage of components
+- [ ] **@types**: TypeScript declarations
+
+## MD Files
+
+- [ ] **Contributing**: How to contribute to the project
+- [ ] **Changelog**: Document changes and version updates
+- [ ] **Readme**: Introduction, installation, basic usage examples
+
 ## Basic Components
 
 - **Button**
@@ -69,19 +85,3 @@
     - Showcase NFTs with support for images, video, and metadata
 - **Fee Estimator**
     - Calculate and display network fees
-
-## Boilerplate
-
-- [ ] **Linter**: ESLint with TypeScript rules
-- [ ] **Vercel**: Setup for deployment
-- [ ] **Gitignore**: For Node.js/TypeScript projects
-- [ ] **Yarn**: Package manager setup
-- [ ] **.github Folder**: Contains GitHub actions and workflows
-- [ ] **Demo Site**: Hosted on Vercel, example usage of components
-- [ ] **@types**: TypeScript declarations
-
-## MD Files
-
-- [ ] **Contributing**: How to contribute to the project
-- [ ] **Changelog**: Document changes and version updates
-- [ ] **Readme**: Introduction, installation, basic usage examples
