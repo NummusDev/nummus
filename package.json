@@ -1,0 +1,19 @@
+{
+  "name": "nummus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NummusDev/nummus.git",
+  "author": "Tristan Bietsch <72288139+TristanBietsch@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@testing-library/react": "^15.0.5",
+    "emotion": "^11.0.0",
+    "eslint": "^9.1.1",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "storybook": "^8.0.9",
+    "typescript": "^5.4.5"
+  }
+}

@@ -13,8 +13,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "baseUrl": ".",
   },
-  "include": ["packages/**/*"],
+  "include": ["packages/**/*", "packages/core"],
   "exclude": ["node_modules"]
 }
